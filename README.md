@@ -1,2 +1,2 @@
 # wpu-pizza
-Web about all menu in pizza hut
+Website about all menu in pizza hut
